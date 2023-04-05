@@ -32,10 +32,10 @@
     }
   ],
   "name": "Text Editor",
-  "short_name": "PWA",
+  "short_name": "My-PWA",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
-  "description": "Text editor!",
+  "description": "My Progressive Text Editor App!",
   "background_color": "#ffffff"
 }

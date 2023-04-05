@@ -30,8 +30,8 @@ module.exports = () => {
         inject: true,
         fingerprints: false,
         name: "Text Editor",
-        short_name: "PWA",
-        description: "Text editor!",
+        short_name: "My-PWA",
+        description: "My Progressive Text Editor App!",
         background_color: "#ffffff",
         icons: [
           {
