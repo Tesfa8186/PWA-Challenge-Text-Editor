@@ -30,7 +30,7 @@
 - Delete the dist folder.
 - npm run build.
 - npm run start:dev and run locally.
-- Also (OR), you can run this App using the "URL of Heroku Link" from the "Links" section at the bottom.
+- Also (OR), you can run this App using the "URL of App Link" from the "Links" section at the bottom.
 
 ## Technology Used
 
@@ -46,7 +46,8 @@
 ## Links
 
 - [URL of GitHub Repository](https://github.com/Tesfa8186/PWA-Challenge-Text-Editor)
-- [URL of Heroku Link]()
+- [URL of Heroku App Link](https://stark-atoll-29817.herokuapp.com/)
+- [URL of Heroku App Dashbouard link](https://dashboard.heroku.com/apps/stark-atoll-29817)
 -
 - ![Console Page of the App](./Assets/Console-page-Screenshot.png)
 - ![Offline Test page of the App](./Assets/Offline-Test-page-Screenshot.png)
