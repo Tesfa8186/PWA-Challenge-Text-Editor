@@ -30,7 +30,7 @@
 - Delete the dist folder.
 - npm run build.
 - npm run start:dev and run locally.
-- Also (OR), you can run this App using the Heroku URL link from the "Links" section at the bottom.
+- Also (OR), you can run this App using the "URL of Heroku Link" from the "Links" section at the bottom.
 
 ## Technology Used
 
@@ -46,7 +46,7 @@
 ## Links
 
 - [URL of GitHub Repository](https://github.com/Tesfa8186/PWA-Challenge-Text-Editor)
-- [URL of Heroku Deploy]()
+- [URL of Heroku Link]()
 -
 - ![Console Page of the App](./Assets/Console-page-Screenshot.png)
 - ![Offline Test page of the App](./Assets/Offline-Test-page-Screenshot.png)
