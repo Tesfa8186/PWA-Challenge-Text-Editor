@@ -47,7 +47,7 @@
 
 ## Test
 
-- Testing of this application could be: `locally at  http://localhost:3000/` OR
+- Testing of this application could be locally at `http://localhost:3000/` OR
 - On the Links section click `URL Heroku App Link` to start the browser.
 - Regularly, clear site data is required on local storage upon testing offline.
 
@@ -55,7 +55,6 @@
 
 - [URL of GitHub Repository](https://github.com/Tesfa8186/PWA-Challenge-Text-Editor)
 - [URL of Heroku App Link](https://stark-atoll-29817.herokuapp.com/)
-- [URL of Heroku App Dashbouard link](https://dashboard.heroku.com/apps/stark-atoll-29817)
 -
 - ![Console Page of the App](./Assets/Console-page-Screenshot.png)
 - ![Offline Test page of the App](./Assets/Offline-Test-page-Screenshot.png)
