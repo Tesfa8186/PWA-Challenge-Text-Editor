@@ -9,6 +9,7 @@
 - [User Story](#user-story)
 - [Installation](#installation)
 - [Technology Used](#technology-used)
+- [Test](#test)
 - [Links](#links)
 - [License](#license)
 
@@ -28,6 +29,7 @@
 
 - Clone the App into your local machine.
 - Delete the dist folder.
+- npm i
 - npm run build.
 - npm run start:dev and run locally.
 - Also (OR), you can run this App using the "URL of App Link" from the "Links" section at the bottom.
@@ -41,7 +43,13 @@
 - npm install babel (Babel)
 - npm install --save-dev css-loader (CSS-loader)
 - npm install concurrently --save (run multiple commands concurrently.) (Concurrently)
-- npm npm install idb (IndexedDB)
+- npm install idb (IndexedDB)
+
+## Test
+
+- Testing of this application could be: `locally at  http://localhost:3000/` OR
+- On the Links section click `URL Heroku App Link` to start the browser.
+- Regularly, clear site data is required on local storage upon testing offline.
 
 ## Links
 
